@@ -13,3 +13,5 @@
  - Do a SOUT to ask the first answer and use the scanner to input the user's number guess.
  
  - Made an If to verify if the number entered by the user's is correct or not. If it is correct, it will show a message indicating that the number is correct. If it is incorrect, it will show a message indicating that the number is incorrect and a hint depending on the number being bigger or lower than the random number generated until the user's guess the correct option.
+
+:D
